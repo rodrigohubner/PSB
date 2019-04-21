@@ -42,3 +42,5 @@ Com o ambiente virtual `python 3` instalado, é hora de instalar o `Jupyter Note
 ## Sequência das aulas
 
 1. Carregamento e preparação de *datasets*;
+2. Aplicação de filtros temporais e espaciais;
+3. 
