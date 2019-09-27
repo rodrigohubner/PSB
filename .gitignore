@@ -1,0 +1,7 @@
+bin/*
+include/*
+lib/*
+share/*
+src/.vscode/*
+.vscode/*
+.ipynb_checkpoints/*
